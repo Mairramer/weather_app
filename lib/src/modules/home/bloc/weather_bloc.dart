@@ -1,7 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:wheater_app/src/models/wheater_model.dart';
 
-import 'package:wheater_app/src/repositories/wheater_repository.dart';
+import 'package:wheater_app/src/repositories/weather_repository.dart';
 
 import 'weather_event.dart';
 import 'weather_state.dart';

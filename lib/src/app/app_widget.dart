@@ -5,7 +5,7 @@ import 'package:wheater_app/src/core/consts/translations/app_translations.dart';
 import 'package:wheater_app/src/modules/home/bloc/weather_bloc.dart';
 
 import 'package:wheater_app/src/modules/home/home_page.dart';
-import 'package:wheater_app/src/repositories/wheater_repository.dart';
+import 'package:wheater_app/src/repositories/weather_repository.dart';
 
 class AppWidget extends StatelessWidget {
   @override
