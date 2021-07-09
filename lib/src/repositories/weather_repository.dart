@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:wheater_app/src/models/wheater_model.dart';
+import 'package:wheater_app/src/models/weather_model.dart';
 
 class WeatherRepository {
   static const String API_ID = "fc31e3b9b792bf8d75d15b16334f2e25";

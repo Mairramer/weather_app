@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:wheater_app/src/core/consts/app_text_styles.dart';
-import 'package:wheater_app/src/models/wheater_model.dart';
+import 'package:wheater_app/src/models/weather_model.dart';
 import 'package:wheater_app/src/modules/home/bloc/weather_bloc.dart';
 import 'package:wheater_app/src/modules/home/bloc/weather_event.dart';
 import 'package:wheater_app/src/modules/home/widgets/temperature_info.dart';
