@@ -3,6 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:wheater_app/src/models/weather_model.dart';
 
 class WeatherRepository {
+  //só esta aqui por que é uma chave de teste 
   static const String API_ID = "fc31e3b9b792bf8d75d15b16334f2e25";
 
   Future<WeatherModel> getWeather(String city) async {
